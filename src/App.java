@@ -2,6 +2,7 @@ import java.text.DecimalFormat;
 
 import javax.swing.JOptionPane;
 
+import exceptions.ClosingException;
 import moeda.ConversorDeMoeda;
 import moeda.TipoDeMoeda;
 import temperatura.TipoDeTemperatura;
